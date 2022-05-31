@@ -1,4 +1,4 @@
-![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%234CBB17&size=30&duration=4000&vCenter=true&width=700&height=60&lines=gm+world!;My+name+is+Pouriya.;I+am+Project+Manager.;Let's+build+together!)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%234CBB17&size=30&duration=4000&vCenter=true&width=700&height=60&lines=GM+world!;My+name+is+Pouriya.;I+am+Project+Manager.;Let's+build+together!)
 ## 🌐Socials
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pourija-h-105316183/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/Pouriya_o)
 # 💻Tech Stack
